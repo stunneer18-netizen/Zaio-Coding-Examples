@@ -21,7 +21,7 @@ An aspiring and passionate **SOC Analyst in Training** currently expanding my de
 ---
 
 ### 📫 Let's Connect!
-* 💼 LinkedIn: [Insert Your LinkedIn Link Here]
-* ✉️ Email: [Insert Your Professional Email Here]
+* 💼 LinkedIn: www.linkedin.com/in/siphiwe-toise-62061b28a
+* ✉️ Email: stunneer18@gmail.com
 
 "Understanding the mechanics of the exploit to engineer a resilient defense."
